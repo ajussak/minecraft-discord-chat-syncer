@@ -1,0 +1,16 @@
+[
+{
+  "modid": "minecraft-discord-chat-syncer",
+  "name": "Minecraft Discord Chat Syncer (MDCS)",
+  "description": "Minecraft mod to sync chat with Discord",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Wascar"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
